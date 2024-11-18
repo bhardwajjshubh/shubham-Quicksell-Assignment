@@ -1,6 +1,6 @@
 # shubham-Quicksell-Assignment
 
-# Kanban Board App for Quicksell
+# Kanban Board App 
 
 ## Overview
 
